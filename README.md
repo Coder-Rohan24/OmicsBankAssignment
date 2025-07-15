@@ -199,6 +199,7 @@ OmicsBankAssignment/
 For detailed technical information about the system architecture, algorithms, and implementation details, please refer to the `architecture_details.pdf` included in this repository.
 
 ---
+## Google Colab Link: https://colab.research.google.com/drive/14XfeK6VtsAnJWqmXZeVs55_xjfRkzE2N?usp=sharing
 
 ## 📎 License
 
